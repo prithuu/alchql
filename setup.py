@@ -16,7 +16,7 @@ requirements = [
     # To keep things simple, we only support newer versions of Graphene
     "graphene>=3.0",
     "promise>=2.3",
-    "SQLAlchemy>=1.4,<2",
+    "SQLAlchemy>=1.4",
     "aiodataloader == 0.4",
     "protobuf",
     "setuptools>v62.1.0",
